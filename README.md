@@ -10,27 +10,27 @@ scraped.
 
  There are 8 fields and 100 records available. Below is an example of the data scraped from the above website.
 
-*Name 			      අරවින්ද් කුමාර්
-*Date of Birth 		1954-11-17
-*Marital status  	විවාහක
-*Religion 		    හින්දු
-*Party        	  සමගි ජන බලවේගය
-*District 		    බදුල්ල
-*Telephone 	    	0777727472
-*Email 			      aravindh_k@parliament.lk
+* Name 			      අරවින්ද් කුමාර්
+* Date of Birth 		1954-11-17
+* Marital status  	විවාහක
+* Religion 		    හින්දු
+* Party        	  සමගි ජන බලවේගය
+* District 		    බදුල්ල
+* Telephone 	    	0777727472
+* Email 			      aravindh_k@parliament.lk
 
 ## Setup Search Engine
-*Run elastic search cloud
-*import details.csv
+* Run elastic search cloud
+* import details.csv
 
 ## Files in Repository
 
-*scrapping.ipynb                  This contains the code for scrapping
-*details.csv                      This is the file with details for the search
+* scrapping.ipynb                  This contains the code for scrapping
+* details.csv                      This is the file with details for the search
 
-##Sample Queries
+## Sample Queries
 
-*ආගම : "බෞද්ධ" 
-*කොළඹ
-*පක්ෂය : "ජාතික ජන බලවේගය" or පක්ෂය : "ශ්‍රී ලංකා නිදහස් පක්ෂය" 
-*දිස්ත්‍රික්කය : "ගම්පහ" and පක්ෂය : "ශ්‍රී ලංකා පොදුජන පෙරමුණ" 
+* ආගම : "බෞද්ධ" 
+* කොළඹ
+* පක්ෂය : "ජාතික ජන බලවේගය" or පක්ෂය : "ශ්‍රී ලංකා නිදහස් පක්ෂය" 
+* දිස්ත්‍රික්කය : "ගම්පහ" and පක්ෂය : "ශ්‍රී ලංකා පොදුජන පෙරමුණ" 
