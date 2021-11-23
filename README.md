@@ -4,7 +4,6 @@ ________________________________________________________________________________
 This repository contains source code for the search engine to find the members of the parliament in Sri Lanka.
 The Data was scraped from https://www.parliament.lk/si/members-of-parliament/directory-of-members/?cletter=%E0%B6%85 
 website. Beautifulsoup, which was a python module, was used for web scraping.
-scraped. 
 
 ## Data
 
